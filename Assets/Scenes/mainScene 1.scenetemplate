@@ -19,8 +19,6 @@ MonoBehaviour:
   dependencies:
   - dependency: {fileID: 2800000, guid: 3028dc075ba8c584d9bc7d1e0255e038, type: 3}
     instantiationMode: 1
-  - dependency: {fileID: 8701820220852031466, guid: 2c3e33b75ac4c80408b8d384b3085797, type: 3}
-    instantiationMode: 0
   - dependency: {fileID: 5906167260006009459, guid: c5f621768ebd4a0429aa350b00ff0e55, type: 3}
     instantiationMode: 0
   - dependency: {fileID: 3955391966338554410, guid: 1794df5ee78eb0a45bf5862a38e640ad, type: 3}
@@ -47,17 +45,13 @@ MonoBehaviour:
     instantiationMode: 0
   - dependency: {fileID: 2800000, guid: b64756a3fbf7f7e42b02aa3aa8669374, type: 3}
     instantiationMode: 0
-  - dependency: {fileID: 2100000, guid: 56f0be1a973b8e04c9e7ed9fc47c2383, type: 2}
-    instantiationMode: 0
-  - dependency: {fileID: 4715649282190086506, guid: c689cb3642b6a92439880ea2c33faf5d, type: 3}
-    instantiationMode: 0
-  - dependency: {fileID: 2800000, guid: 99e09a9bd0f10384fa2a3bcbd5c65c9d, type: 3}
-    instantiationMode: 0
   - dependency: {fileID: 2800000, guid: ee5f9bf88befa4e4eb6ac1d74dae4051, type: 3}
     instantiationMode: 0
   - dependency: {fileID: 2100000, guid: e8c8529dc47cac64bbe0da1299aee73c, type: 2}
     instantiationMode: 0
   - dependency: {fileID: 2100000, guid: d4454f71d85928744be7771e2143dab7, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 2557599461631172500, guid: bc693468397c892428937c9dbb946156, type: 3}
     instantiationMode: 0
   - dependency: {fileID: 2100000, guid: 297e3a11e7d07fc48b4f71056b4f927f, type: 2}
     instantiationMode: 0
@@ -68,8 +62,6 @@ MonoBehaviour:
   - dependency: {fileID: 11400000, guid: 6ff3a547d0712f444a970e2672dc1119, type: 2}
     instantiationMode: 1
   - dependency: {fileID: 2800000, guid: 842e1df99dbfea64e8b3a908fb50d32f, type: 3}
-    instantiationMode: 0
-  - dependency: {fileID: 2100000, guid: d7013b1ddda697d4aa92292257a43d2d, type: 2}
     instantiationMode: 0
   - dependency: {fileID: -944628639613478452, guid: ca9f5fa95ffab41fb9a615ab714db018, type: 3}
     instantiationMode: 1
