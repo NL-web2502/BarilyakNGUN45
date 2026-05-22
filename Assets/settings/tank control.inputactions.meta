@@ -11,4 +11,4 @@ ScriptedImporter:
   generateWrapperCode: 1
   wrapperCodePath: Assets/Scripts/Tank/tank control.cs
   wrapperClassName: 
-  wrapperCodeNamespace: Tanks
+  wrapperCodeNamespace: Tank
